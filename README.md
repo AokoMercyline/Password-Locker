@@ -25,7 +25,7 @@
 
  ## SUPPORT AND CONTACT
 
- * 0708434156[AokoMercyline] (https://github.com/AokoMercyline/Password-Locker)
+ * 0708434156[GitHub] (https://github.com/AokoMercyline/Password-Locker)
 
 ## LICENSE AND COPYRIGHT
 
