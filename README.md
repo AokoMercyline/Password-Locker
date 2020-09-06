@@ -15,7 +15,7 @@
  * Code.
 
  ## FEATURES
- 
+
 
  ## TECHNOLOGY USED/LANGUAGES
 
@@ -26,3 +26,7 @@
  ## SUPPORT AND CONTACT
 
  * 0708434156[AokoMercyline] (https://github.com/AokoMercyline/Password-Locker)
+
+## LICENSE AND COPYRIGHT
+
+[Mit License](https://opensource.org/licenses/MIT)2020 &copy; AokoMercyline
