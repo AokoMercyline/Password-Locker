@@ -20,8 +20,10 @@
  ## TECHNOLOGY USED/LANGUAGES
 
  * Python language
+ * Pyperclip
 
  ## KNOWN BUGS
+
 
  ## SUPPORT AND CONTACT
 
