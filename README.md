@@ -9,10 +9,10 @@
 
  ## SETUP/INSTALLATION REQUIREMENTS
 
- * Open your terminal
- * Clone this [repo](https://github.com/AokoMercyline/Password-Locker.git)
+ * Open your terminal[ctrl + shift +t]
+ * git clone this [repo](https://github.com/AokoMercyline/Password-Locker.git) on your terminal
  * cd Password-locker
- * Code.
+ * Code . to open your Visual Studio Code and run this comands python3.8 run.py according to the version of python you are using
 
  ## FEATURES
 
