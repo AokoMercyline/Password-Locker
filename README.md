@@ -23,7 +23,7 @@
  * Pyperclip
 
  ## KNOWN BUGS
-
+ Project is not running as expected,its in change mode,some changes are still be made.
 
  ## SUPPORT AND CONTACT
 
