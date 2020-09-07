@@ -14,6 +14,15 @@ class User:
 class Credentials:
     credentials_list = []
     
+    @classmethod
+    
+    def user_exist(cls,username,password):
+        current_user = ''
+        for user in User.user_list:
+            if(user.username == username and user.password == password):
+                current_user == user.username
+        return current_user
+    
     def _init_(self,account_name,username,password):
         self.account_name = account_name
         self.username = username
