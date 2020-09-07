@@ -76,7 +76,7 @@ def main():
             print('\n')
             
     while True:
-        print('Use these short codes to manage credentials: \n NC = new credential, \n VC = view credentials, \n FC = find credential, \n GP = generate random password, \n Dc = delete credential, \n EX = exit application')
+        print('Use these short codes to manage credentials: \n NC = new credential, \n VC = view credentials, \n FC find credential, \n GP = generate random password, \n Dc = delete credential, \n EX = exit application')
         short_code = input().lower()
         if short_code == 'nc':
             print('Enter New Credential Details')
@@ -120,6 +120,6 @@ def main():
                 
 
 if __name__ == '__main__':
-    main()
+ main()
     
     
