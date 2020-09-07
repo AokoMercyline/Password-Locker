@@ -58,8 +58,8 @@ class TestCredentials(unittest.TestCase):
         credentials_exist = Credentials.credentials_exist('Tik Tok')
         self.assertTrue(credentials_exist)
         
-    def display_credentials(self):
-        self.assertEqual(Credentials.display_credentials(),Credentials.credentials_list)
+    def view_credentials(self):
+        self.assertEqual(Credentials.view_credentials(),Credentials.credentials_list)
         
 if __name__ == '__main__':
     unittest.main()     

@@ -41,7 +41,7 @@ def generate_password():
     return gen_pwrd
 
 def main():
-    print('Welcome to Accounts Management. Use the these commands to proceed: CA = create account, SI = sign in')
+    print('Welcome to Password Locker. Use the these commands to proceed: CA = create account, SI = sign in')
     short_code = input().lower()   
     if short_code == 'ca':
         print('Enter new account details')
@@ -102,9 +102,9 @@ def main():
             print('*' * 100)
             
         elif short_code == 'vc':
-            if display_credentials():
+            if view_credentials():
                 print('Your saved credentials are:')
-                for account_name in display_credentials():
+                for account_name in view_credentials():
                     print(f' Name: {account_name} \n Username: {username} \n Password: {password}')
                     print('*' * 100)
             else:
@@ -120,6 +120,6 @@ def main():
                 
 
 if __name__ == '__main__':
- main()
+    main()
     
     
